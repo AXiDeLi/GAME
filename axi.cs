@@ -1,0 +1,2 @@
+consale.print("hello");
+робит?
