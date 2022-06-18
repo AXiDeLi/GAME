@@ -1,2 +1,2 @@
 consale.print("hello");
-робит?
+робит?void cucumber()
